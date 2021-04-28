@@ -1,6 +1,6 @@
 # Neural Network Classifier
 
-This Int 1.2 Project uses MedMNIST datasets to create a basic neural network classifier that identifies medical diagnoses and treatable diseases by image-based deep learning
+This Int 1.2 Project uses an MedMNIST dataset to create a basic neural network classifier that identifies a variety of eye conditions and eye diseases such as macular degeneration, glaucoma and diabetic retinopathy (the top three diseases known to cause blindness) using image-based deep learning.  The images in this dataset are gathered using Optical Coherence Tomography (OCT) which allow doctors to see a cross section of the retina.
 
 ## Getting Started
 
